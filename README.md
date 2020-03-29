@@ -1,6 +1,8 @@
 # vue_dashboard
 
-> A Vue.js project
+> VUE.js 교육자료 (Client)
+> node_server_edu (Server) 와 같이 실행
+> vue.js 2.0
 
 ## Build Setup
 
@@ -17,4 +19,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
